@@ -1,1 +1,1 @@
-Hey, I'm a software developer who loves game development and building web apps. 
+Hey, I'm a software developer focused on game programming and frontend development.
